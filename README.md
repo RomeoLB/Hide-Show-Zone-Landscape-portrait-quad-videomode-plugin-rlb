@@ -13,3 +13,4 @@ also matches the "orientation", Left position and Top position of Zone 3 in the 
 
 <img width="1070" alt="image" src="https://github.com/user-attachments/assets/a115a7a1-9c29-4bed-82a4-a0f32872dddc" />
 
+It is important to make sure that the relevant zones settings for each zone in BACon also matches the settings for HDMI-1, HDMI-2, HDMI-3 and HDMI-4 in the video plugin or the content will not appear at the expected position.
