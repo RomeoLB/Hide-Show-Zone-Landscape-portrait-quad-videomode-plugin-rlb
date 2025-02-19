@@ -5,4 +5,11 @@ The exported BACon (1.55.1) presentation available from this repo allows to conf
 
 <img width="691" alt="image" src="https://github.com/user-attachments/assets/dc84ff42-e7ee-4049-83d3-d49ec0b88657" />
 
+As per the below image you can see that the video plugin screen orientation, x and y coordinates for HDMI-3
+
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/e07920ca-aba6-4803-9366-12365fe68cbb" />
+
+also matches the "orientation", Left position and Top position of Zone 3 in the BACon Layout setting
+
+<img width="1070" alt="image" src="https://github.com/user-attachments/assets/a115a7a1-9c29-4bed-82a4-a0f32872dddc" />
 
